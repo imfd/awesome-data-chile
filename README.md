@@ -15,6 +15,12 @@ Insertar descripcion
 
 ## Medioambiente
 
+[Repositorio - Energía Abierta](http://energiaabierta.cl)\
+Iniciativa de la Comisión Nacional de Energía. Datos estadísticos, indicadores, mapas, normas legales y aplicaciones sobre el Sector Energético como Electricidad, Hidrocarburos, Energías Renovables, Eficiencia Energética, entre otros.
+
+[Repositorio - Sistema Nacional de Inventarios de Gases de Efecto Invernadero de Chile (SNICHILE)](https://snichile.mma.gob.cl/documentos/)\
+Ministerio del Medio Ambiente. Datos sobre emisiones y absorciones de gases de efecto invernadero (CO2, CH4, N2O, HFC, SF6)) en el país. 
+
 ## Política
 
 ## Social
