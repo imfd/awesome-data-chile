@@ -7,7 +7,7 @@ Lista de bases de datos sobre Chile.
   - [Política](#política)
   - [Social](#social)
   - [Salud](#salud)
-  - [Otros](#otros)
+  - [Economía](#economía)
 
 ### Template
 [Repositorio o Dataset - Titulo](link)\
@@ -21,4 +21,4 @@ Insertar descripcion
 
 ## Salud
 
-## Otros
+## Economía
