@@ -22,3 +22,6 @@ Insertar descripcion
 ## Salud
 
 ## Economía
+[Repositorio - Data Innovación](https://datainnovacion.cl)\
+Portal de datos públicos de InnovaChile CORFO. Datos sobre proyectos apoyados desde el año 2010, los que incluyen subsidios de apoyo a la Innovación CORFO y Ley de Incentivo Tributario a la I+D. 
+
