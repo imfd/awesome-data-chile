@@ -57,3 +57,15 @@ Insertar descripcion
 
 [Datasets - Estadísticas Unidad de Análisis Financiero](https://www.uaf.cl/prensa/estadisticas.aspx)\
 *Unidad de Análisis Financiero.* Serie estadística sobre los resultados obtenidos por el servicio en el desempeño de sus funciones de inteligencia financiera, regulación, fiscalización del cumplimiento, normativa y actividades de difusión para la prevención de LA/FT (lavado de activos/financiamiento del terrorismo).
+
+[Repositorio - Obersavatorio Logístico](https://www.observatoriologistico.cl)\
+*Ministerio de Transporte y Telecomunicaciones.* Datos sobre el sector logístico nacional tales como transporte carretero, ferroviario, marítimo y aéreo asi como comercio exterior, indicadores país, entre otros. 
+
+[Repositorio - Data Emprendimiento](https://www.observatoriologistico.cl)\
+*CORFO.* Datos públicos de emprendimiento en Chile, incluido datos con información de proyectos financiados por la Gerencia de Emprendimiento de CORFO desde el año 2001.  
+
+[Repositorio - Instituo Nacional de Estadísticas](https://www.ine.cl/estadisticas/)\
+*INE.* Datos estadísticos económicos y sociales como índices de precio, inflación, sectores económicos, mercado laboral, censos, seguridad pública, entre otros. 
+
+[Datasets - Marcas y patentes solicitadas/registradas](https://www.inapi.cl/datos-abiertos)\
+*Instituto Nacional de Propiedad Intelectual. INAPI.* Datasets con marcas y patentes presentadas desde el año 2009 a la actulidad.
