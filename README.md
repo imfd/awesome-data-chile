@@ -1,6 +1,6 @@
 # Awesome Data Chile
 
-Lista de bases de datos sobre Chile.
+Lista de fuentes de datos públicas sobre Chile.
 
 ## Contenidos
   - [Medioambiente](#medioambiente)
@@ -8,10 +8,6 @@ Lista de bases de datos sobre Chile.
   - [Social](#social)
   - [Salud](#salud)
   - [Economía](#economía)
-
-### Template
-[Repositorio o Dataset - Titulo](link)\
-Insertar descripcion
 
 ## Medioambiente
 
