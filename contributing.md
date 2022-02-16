@@ -16,6 +16,6 @@ Gracias por tus sugerencias!
 ## Actualizar tu PR
 
 Muchas veces, hacer una PR que adhiera a los estándares de arriba puede ser difícil.
-Si los mantenedores notamos algo que quisiéramos que fuera cambiado, te pediremos que edites tu PR antes de hacer merge. No hay necesidad de abrir una nueva PR, solo edita la existente. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Si los mantenedores notamos algo que quisiéramos que fuera cambiado, te pediremos que edites tu PR antes de hacer merge. No hay necesidad de abrir una nueva PR, solo edita la existente. Si no sabes como hacer eso, 
+[aquí hay una guía](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+con las diferentes formas en las que puedes actualizar tu PR.
