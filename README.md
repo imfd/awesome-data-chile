@@ -29,6 +29,17 @@ Insertar descripcion
 
 
 ## Política
+[Repositorio - Datos Abiertos Legislativos](http://opendata.congreso.cl)\
+*Iniciativa del Congreso Nacional de Chile.* Datos relacionados al trámite legislativo, información de parlamentarios, Senado, Cámara de Diputados y leyes ya publicadas.
+
+[Repositorio - Info Lobby](https://www.infolobby.cl/)\
+*Consejo para la Transparencia.* Endpoint SPARQL y datasets sobre la actividad de [Lobby](https://www.bcn.cl/leyfacil/recurso/ley-del-lobby). Datos sobre registros de agenda pública y nómina sistematizada de lobistas y gestores de intereses particulares incluyendo sujetos pasivos y activos, audiencias, viajes y donativos.
+
+[Repositorio - Estadísticas SERVEL](https://www.servel.cl/estadisticas-2/)\
+*Servicio Electoral de Chile.* Estadísticas sobre resultados electorales históricos, gasto, participación, partidos politicos, entre otros. 
+
+
+
 
 ## Social
 [Repositorio - Estadísticas de género](https://www.estadisticasdegenero.cl)\
