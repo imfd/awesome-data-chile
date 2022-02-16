@@ -34,9 +34,6 @@ Lista de fuentes de datos públicas sobre Chile.
 [Repositorio - Estadísticas SERVEL](https://www.servel.cl/estadisticas-2/)\
 *Servicio Electoral de Chile.* Estadísticas sobre resultados electorales históricos, gasto, participación, partidos politicos, entre otros. 
 
-
-
-
 ## Social
 [Repositorio - Estadísticas de género](https://www.estadisticasdegenero.cl)\
 *Subcomisión de Estadísticas de Género.* Datos estadísticos con un enfoque de género a nivel nacional y regional.
@@ -52,9 +49,6 @@ Lista de fuentes de datos públicas sobre Chile.
 
 [Repositorio - Agencia de Calidad de la Educación](https://informacionestadistica.agenciaeducacion.cl/#/bases)\
 *Ministerio de Educación.* Bases de datos sobre categorías de desempeño, indicadores de desarrollo personal y social y SIMCE con distintos niveles de agregación.
-
-
-## Salud
 
 ## Economía
 [Repositorio - Data Innovación](https://datainnovacion.cl)\
