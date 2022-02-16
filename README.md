@@ -1,4 +1,4 @@
-# Awesome Data Chile
+# Awesome Data Chile [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Lista de fuentes de datos públicas sobre Chile.
 
