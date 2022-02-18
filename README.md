@@ -24,6 +24,14 @@
 [Repositorio - Registro de Emisiones y Transferencias de Contaminantes (RETC)](https://datosretc.mma.gob.cl)\
 *Ministerio del Medio Ambiente*. Datos de emisiones y transferencias de contaminantes a medios receptores como aire, agua y suelo.
 
+[Repositorio - Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl)\
+*Ministerio del Medio Ambiente*. Datos sobre agua caída, nubosidad, presión, humedad, temperatura, viento, entre otras variables climatológicas recopiladas por estaciones de monitoreo.
+
+[Datasets - Encuestas Nacionales del Medio Ambiente](https://mma.gob.cl/encuestas-nacionales-del-medio-ambiente/)\
+*Ministerio del Medio Ambiente*. Bases de datos de encuestas aplicadas a partir del año 2014. 
+
+[Repositorio - Observatorio por el Cambio Climático](https://occ.minciencia.gob.cl/#/)\
+*Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.* Bases de datos de variables de agua, oceános, atmósfera y criósfera.
 
 ## Política
 [Repositorio - Datos Abiertos Legislativos](http://opendata.congreso.cl)\
@@ -54,7 +62,7 @@
 [Repositorio - Data Social](https://datasocial.ministeriodesarrollosocial.gob.cl)\
 *Ministerio de Desarrollo Social.* Portal de visualización de datos donde se pueden descargar bases de datos sobre caracterización socioeconómica, indicadores, programas sociales, entre otros.
 
-[Repositorio - Obersvatorio Social](http://observatorio.ministeriodesarrollosocial.gob.cl)\
+[Repositorio - Observatorio Social](http://observatorio.ministeriodesarrollosocial.gob.cl)\
 *Ministerio de Desarrollo Social y Familia.* Bases de datos de diversas encuestas realizadas por el Ministerio que recopilan información sobre la realidad social del país.
 
 ## Salud
