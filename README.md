@@ -51,6 +51,9 @@
 [Repositorio - Agencia de Calidad de la Educación](https://informacionestadistica.agenciaeducacion.cl/#/bases)\
 *Ministerio de Educación.* Bases de datos sobre categorías de desempeño, indicadores de desarrollo personal y social y SIMCE con distintos niveles de agregación.
 
+[Repositorio - Data Social](https://datasocial.ministeriodesarrollosocial.gob.cl)\
+*Ministerio de Desarrollo Social.* Portal de visualización de datos donde se pueden descargar bases de datos sobre caracterización socioeconómica, indicadores, programas sociales, entre otros.
+
 ## Salud
 
 [Repositorio - Datos Abiertos FONASA](https://www.fonasa.cl/sites/fonasa/datos-abiertos)\
