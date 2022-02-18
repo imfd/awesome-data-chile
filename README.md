@@ -105,3 +105,6 @@
 
 [Repositorio - ANID](https://github.com/ANID-GITHUB)\
 *Agencia Nacional de Investigación y Desarrollo.* Bases de datos sobre postulantes, proyectos adjudicados, consultas públicas y instituciones asociadas. 
+
+[Repositorio - Observatorio del Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación](https://github.com/ANID-GITHUB)\
+*Ministerio de Ciencia.* Bases de datos sobre diversas encuestas relacionadas a innovación, empresas, gasto y personal en I+D, así como Ley I+D, proyectos adjudicados, programas públicos, entre otros.
