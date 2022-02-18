@@ -51,6 +51,15 @@
 [Repositorio - Agencia de Calidad de la Educación](https://informacionestadistica.agenciaeducacion.cl/#/bases)\
 *Ministerio de Educación.* Bases de datos sobre categorías de desempeño, indicadores de desarrollo personal y social y SIMCE con distintos niveles de agregación.
 
+## Salud
+
+[Repositorio - Datos Abiertos FONASA](https://www.fonasa.cl/sites/fonasa/datos-abiertos)\
+*Fondo Nacional de Salud.* Datos sobre información estadística, estudios, cuentas públicas, financiamiento y gestión hospitalaria.
+
+[Repositorio - Departamento de Estadísticas e Información de Salud MINSAL](https://deis.minsal.cl)\
+*Subsecretaría de Salud.* Datos sobre mortalidad, vacunación, defunciones, egresos hospitalarios, atenciones de urgencia, entre otros.
+
+
 ## Economía
 
 [Repositorio - Datos Abiertos ChileCompra](http://datosabiertos.chilecompra.cl)\
