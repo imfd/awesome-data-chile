@@ -68,6 +68,9 @@
 [Repositorio - Observatorio Social](http://observatorio.ministeriodesarrollosocial.gob.cl)\
 *Ministerio de Desarrollo Social y Familia.* Bases de datos de diversas encuestas realizadas por el Ministerio que recopilan información sobre la realidad social del país.
 
+[Datasets - Estadísticas Superintendencia de Educación](https://www.supereduc.cl/categoria-estudios-estadisticas/estadisticas/)\
+*Ministerio de Educación.* Estadísticas de denuncias ingresadas y resueltas por materia además de solicitudes de mediación. 
+
 ## Salud
 
 [Repositorio - Datos Abiertos FONASA](https://www.fonasa.cl/sites/fonasa/datos-abiertos)\
