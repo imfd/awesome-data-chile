@@ -54,6 +54,9 @@
 [Repositorio - Data Social](https://datasocial.ministeriodesarrollosocial.gob.cl)\
 *Ministerio de Desarrollo Social.* Portal de visualización de datos donde se pueden descargar bases de datos sobre caracterización socioeconómica, indicadores, programas sociales, entre otros.
 
+[Repositorio - Obersvatorio Social](http://observatorio.ministeriodesarrollosocial.gob.cl)\
+*Ministerio de Desarrollo Social y Familia.* Bases de datos de diversas encuestas realizadas por el Ministerio que recopilan información sobre la realidad social del país.
+
 ## Salud
 
 [Repositorio - Datos Abiertos FONASA](https://www.fonasa.cl/sites/fonasa/datos-abiertos)\
