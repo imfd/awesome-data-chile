@@ -43,6 +43,9 @@
 [Repositorio - Estadísticas SERVEL](https://www.servel.cl/estadisticas-2/)\
 *Servicio Electoral de Chile.* Estadísticas sobre resultados electorales históricos, gasto, participación, partidos politicos, entre otros. 
 
+[Repositorio - Datos Abiertas Consejo para la Transparencia](https://www.consejotransparencia.cl/datosabiertos/)\
+*Consejo para la Transparencia.* Bases de datos sobre casos presentados ante el Consejo, fiscalizaciones, organismos regulados por la Ley de Transparencia, audiencias de Lobby, declaraciones de intereses y patrimonio, entre otros.
+
 ## Social
 [Repositorio - Estadísticas de género](https://www.estadisticasdegenero.cl)\
 *Subcomisión de Estadísticas de Género.* Datos estadísticos con un enfoque de género a nivel nacional y regional.
