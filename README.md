@@ -8,6 +8,7 @@
   - [Social](#social)
   - [Salud](#salud)
   - [Economía](#economía)
+  - [Investigación y Desarrollo](#investigación-y-desarrollo)
 
 ## Medioambiente
 
@@ -23,6 +24,14 @@
 [Repositorio - Registro de Emisiones y Transferencias de Contaminantes (RETC)](https://datosretc.mma.gob.cl)\
 *Ministerio del Medio Ambiente*. Datos de emisiones y transferencias de contaminantes a medios receptores como aire, agua y suelo.
 
+[Repositorio - Dirección Meteorológica de Chile](https://climatologia.meteochile.gob.cl)\
+*Ministerio del Medio Ambiente*. Datos sobre agua caída, nubosidad, presión, humedad, temperatura, viento, entre otras variables climatológicas recopiladas por estaciones de monitoreo.
+
+[Datasets - Encuestas Nacionales del Medio Ambiente](https://mma.gob.cl/encuestas-nacionales-del-medio-ambiente/)\
+*Ministerio del Medio Ambiente*. Bases de datos de encuestas aplicadas a partir del año 2014. 
+
+[Repositorio - Observatorio por el Cambio Climático](https://occ.minciencia.gob.cl/#/)\
+*Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.* Bases de datos de variables de agua, oceános, atmósfera y criósfera.
 
 ## Política
 [Repositorio - Datos Abiertos Legislativos](http://opendata.congreso.cl)\
@@ -33,6 +42,9 @@
 
 [Repositorio - Estadísticas SERVEL](https://www.servel.cl/estadisticas-2/)\
 *Servicio Electoral de Chile.* Estadísticas sobre resultados electorales históricos, gasto, participación, partidos politicos, entre otros. 
+
+[Repositorio - Datos Abiertas Consejo para la Transparencia](https://www.consejotransparencia.cl/datosabiertos/)\
+*Consejo para la Transparencia.* Bases de datos sobre casos presentados ante el Consejo, fiscalizaciones, organismos regulados por la Ley de Transparencia, audiencias de Lobby, declaraciones de intereses y patrimonio, entre otros.
 
 ## Social
 [Repositorio - Estadísticas de género](https://www.estadisticasdegenero.cl)\
@@ -50,9 +62,25 @@
 [Repositorio - Agencia de Calidad de la Educación](https://informacionestadistica.agenciaeducacion.cl/#/bases)\
 *Ministerio de Educación.* Bases de datos sobre categorías de desempeño, indicadores de desarrollo personal y social y SIMCE con distintos niveles de agregación.
 
+[Repositorio - Data Social](https://datasocial.ministeriodesarrollosocial.gob.cl)\
+*Ministerio de Desarrollo Social.* Portal de visualización de datos donde se pueden descargar bases de datos sobre caracterización socioeconómica, indicadores, programas sociales, entre otros.
+
+[Repositorio - Observatorio Social](http://observatorio.ministeriodesarrollosocial.gob.cl)\
+*Ministerio de Desarrollo Social y Familia.* Bases de datos de diversas encuestas realizadas por el Ministerio que recopilan información sobre la realidad social del país.
+
+[Datasets - Estadísticas Superintendencia de Educación](https://www.supereduc.cl/categoria-estudios-estadisticas/estadisticas/)\
+*Ministerio de Educación.* Estadísticas de denuncias ingresadas y resueltas por materia además de solicitudes de mediación. 
+
+## Salud
+
+[Repositorio - Datos Abiertos FONASA](https://www.fonasa.cl/sites/fonasa/datos-abiertos)\
+*Fondo Nacional de Salud.* Datos sobre información estadística, estudios, cuentas públicas, financiamiento y gestión hospitalaria.
+
+[Repositorio - Departamento de Estadísticas e Información de Salud MINSAL](https://deis.minsal.cl)\
+*Subsecretaría de Salud.* Datos sobre mortalidad, vacunación, defunciones, egresos hospitalarios, atenciones de urgencia, entre otros.
+
+
 ## Economía
-[Repositorio - Data Innovación](https://datainnovacion.cl)\
-*Portal de datos públicos de InnovaChile CORFO.* Datos sobre proyectos apoyados desde el año 2010, los que incluyen subsidios de apoyo a la Innovación CORFO y Ley de Incentivo Tributario a la I+D. 
 
 [Repositorio - Datos Abiertos ChileCompra](http://datosabiertos.chilecompra.cl)\
 *Dirección ChileCompra. Ministerio de Hacienda.* Datos sobre compras públicas realizadas a través de la plataforma Mercado Público. Corresponden a la entidades del Estado que adquieren bienes y servicios para el desarrollo de sus funciones.
@@ -98,3 +126,14 @@
 
 [Datasets - Marcas y patentes solicitadas/registradas](https://www.inapi.cl/datos-abiertos)\
 *Instituto Nacional de Propiedad Intelectual. INAPI.* Datasets con marcas y patentes presentadas desde el año 2009 a la actulidad.
+
+# Investigación y Desarrollo
+
+[Repositorio - Data Innovación](https://datainnovacion.cl)\
+*Portal de datos públicos de InnovaChile CORFO.* Datos sobre proyectos apoyados desde el año 2010, los que incluyen subsidios de apoyo a la Innovación CORFO y Ley de Incentivo Tributario a la I+D. 
+
+[Repositorio - ANID](https://github.com/ANID-GITHUB)\
+*Agencia Nacional de Investigación y Desarrollo.* Bases de datos sobre postulantes, proyectos adjudicados, consultas públicas y instituciones asociadas. 
+
+[Repositorio - Observatorio del Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación](https://github.com/ANID-GITHUB)\
+*Ministerio de Ciencia.* Bases de datos sobre diversas encuestas relacionadas a innovación, empresas, gasto y personal en I+D, así como Ley I+D, proyectos adjudicados, programas públicos, entre otros.
