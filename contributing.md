@@ -8,8 +8,10 @@ Asegúrate que tus *pull requests* adhieran los siguientes lineamientos:
 
 - Describan claramente la razón por la cual el vínculo debe ser añadido.
 - Modifique solo las líneas correspondientes en el área apropiada del README.
-- Se trate de un repositorio (o dataset) que disponga datos en formatos adecuados como `.xls`, `.csv`, `.json`, entre otros.
-- Se indique un título del repositorio y una breve descripción sobre los datos que se pueden encontrar.
+- El repositorio debe ser relevante o notorio en términos de Datos sobre Chile. 
+- El link del repositorio o dataset debe estar funcional.
+- El título debe ser acorde y contar con una breve descripción sobre los datos. 
+- El repositorio (o dataset) debe disponer los datos en formatos adecuados como .xls,  .csv, .sps, .json, entre otros.
 
 Gracias por tus sugerencias!
 
