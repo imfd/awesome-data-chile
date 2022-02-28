@@ -6,9 +6,10 @@ Por favor toma en cuenta que este proyecto está liberado con un [Código de Con
 
 Asegúrate que tus *pull requests* adhieran los siguientes lineamientos:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Describan claramente la razón por la cual el vínculo debe ser añadido.
+- Modifique solo las líneas correspondientes en el área apropiada del README.
+- Se trate de un repositorio (o dataset) que disponga datos en formatos adecuados como `.xls`, `.csv`, `.json`, entre otros.
+- Se indique un título del repositorio y una breve descripción sobre los datos que se pueden encontrar.
 
 Gracias por tus sugerencias!
 
