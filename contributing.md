@@ -6,9 +6,12 @@ Por favor toma en cuenta que este proyecto está liberado con un [Código de Con
 
 Asegúrate que tus *pull requests* adhieran los siguientes lineamientos:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Describan claramente la razón por la cual el vínculo debe ser añadido.
+- Modifique solo las líneas correspondientes en el área apropiada del README.
+- El repositorio debe ser relevante o notorio en términos de Datos sobre Chile. 
+- El link del repositorio o dataset debe estar funcional.
+- El título debe ser acorde y contar con una breve descripción sobre los datos. 
+- El repositorio (o dataset) debe disponer los datos en formatos adecuados como .xls,  .csv, .sps, .json, entre otros.
 
 Gracias por tus sugerencias!
 

@@ -1,6 +1,7 @@
 # Awesome Data Chile [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Lista de fuentes de datos públicas sobre Chile.
+> Lista curada de fuentes de datos públicas sobre Chile.
+> Revisa [Contributing](contributing.md) para saber como contribuir.
 
 ## Contenidos
   - [Medioambiente](#medioambiente)
@@ -10,7 +11,7 @@
   - [Economía](#economía)
   - [Investigación y Desarrollo](#investigación-y-desarrollo)
 
-## Medioambiente
+## Medioambiente 
 
 [Repositorio - Energía Abierta](http://energiaabierta.cl)\
 *Comisión Nacional de Energía*. Datos estadísticos, indicadores, mapas, normas legales y aplicaciones sobre el Sector Energético como Electricidad, Hidrocarburos, Energías Renovables, Eficiencia Energética, entre otros.
@@ -47,6 +48,9 @@
 *Consejo para la Transparencia.* Bases de datos sobre casos presentados ante el Consejo, fiscalizaciones, organismos regulados por la Ley de Transparencia, audiencias de Lobby, declaraciones de intereses y patrimonio, entre otros.
 
 ## Social
+[Dataset - CENSO de Población y Vivienda](https://www.ine.cl/estadisticas/sociales/censos-de-poblacion-y-vivienda/informacion-historica-censo-de-poblacion-y-vivienda)\
+*Instituto Nacional de Estadística.* Base de datos del CENSO realizado en el año 2017. Además, se encuentra la herramienta REDATAM para los años 1992 y 2002.
+
 [Repositorio - Estadísticas de género](https://www.estadisticasdegenero.cl)\
 *Subcomisión de Estadísticas de Género.* Datos estadísticos con un enfoque de género a nivel nacional y regional.
 
@@ -135,5 +139,5 @@
 [Repositorio - ANID](https://github.com/ANID-GITHUB)\
 *Agencia Nacional de Investigación y Desarrollo.* Bases de datos sobre postulantes, proyectos adjudicados, consultas públicas y instituciones asociadas. 
 
-[Repositorio - Observatorio del Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación](https://github.com/ANID-GITHUB)\
+[Repositorio - Observatorio del Sistema Nacional de Ciencia, Tecnología, Conocimiento e Innovación](https://observa.minciencia.gob.cl/)\
 *Ministerio de Ciencia.* Bases de datos sobre diversas encuestas relacionadas a innovación, empresas, gasto y personal en I+D, así como Ley I+D, proyectos adjudicados, programas públicos, entre otros.
