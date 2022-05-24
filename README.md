@@ -131,6 +131,10 @@
 [Datasets - Marcas y patentes solicitadas/registradas](https://www.inapi.cl/datos-abiertos)\
 *Instituto Nacional de Propiedad Intelectual. INAPI.* Datasets con marcas y patentes presentadas desde el año 2009 a la actulidad.
 
+[Datasets - Listados de Airbnb](http://insideairbnb.com/get-the-data)\
+*Inside Airbnb.* Datos sobre listados de alojamiento en distintas ciudades del mundo, incluyendo Santiago de Chile, publicados en Airbnb.
+
+
 # Investigación y Desarrollo
 
 [Repositorio - Data Innovación](https://datainnovacion.cl)\
