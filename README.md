@@ -83,6 +83,9 @@
 [Repositorio - Departamento de Estadísticas e Información de Salud MINSAL](https://deis.minsal.cl)\
 *Subsecretaría de Salud.* Datos sobre mortalidad, vacunación, defunciones, egresos hospitalarios, atenciones de urgencia, entre otros.
 
+[Datasets - Lista de espera de derivaciones médicas (anotado)](https://zenodo.org/record/5591011#.YqXzb3VKhhF)\
+*P. Báez et al.* Corpus clínico de derivaciones médicas e interconsultas efectuadas en el sistema público de salud chileno. Contiene los datos originales y anotados según entidades mencionadas y otros atributos.
+
 
 ## Economía
 
