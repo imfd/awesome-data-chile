@@ -5,6 +5,7 @@
 
 ## Contenidos
   - [Medioambiente](#medioambiente)
+  - [Desastres](#desastres)
   - [Política](#política)
   - [Social](#social)
   - [Salud](#salud)
@@ -33,6 +34,10 @@
 
 [Repositorio - Observatorio por el Cambio Climático](https://occ.minciencia.gob.cl/#/)\
 *Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.* Bases de datos de variables de agua, oceános, atmósfera y criósfera.
+
+## Desastres
+[Plataforma de Datos para la Resiliencia ante Desastres](https://www.plataformadedatos.cl/)\
+*ITrend.*  Datos oficiales de amenazas, áreas de investigación relacionadas a desastres, catástros históricos de desastres, riesgos, vulnerabilidad, entre otros.
 
 ## Política
 [Repositorio - Datos Abiertos Legislativos](http://opendata.congreso.cl)\
